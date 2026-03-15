@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjHGr1Fhz0kyv8Fy/giphy.gif" width="100%" height="auto"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" height="auto"/>
 </p>
 
 <div align="center">
@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`EthicalRohit`](https://github.com/ethicalrohitt)**, a Hacker & Security Researcher and an aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community. My security research and responsible disclosures have been recognized by organizations such as **NASA**, **BOLT**, the **U.S. Government**, the **Defense Nuclear Facilities Safety Board**, **Telekom**, **Fyers**, among others, for identifying and reporting critical vulnerabilities. I have also been officially assigned **2 CVEs** for vulnerabilities I discovered and responsibly disclosed.
+I'm **Rohit Kailas Pawar**, also known as **[`EthicalRohit`](https://github.com/ethicalrohitt)**, a Hacker & Security Researcher and an aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community. My security research and responsible disclosures have been recognized by organizations such as **NASA**, **BOLT**, the **U.S. Government**, the **Defense Nuclear Facilities Safety Board**, **Telekom**, **Fyers**, among others, for identifying and reporting critical vulnerabilities. I have also been officially assigned **2 CVEs** for vulnerabilities I discovered and responsibly disclosed.
 
 <details>
   <summary>More about me</summary>
@@ -75,20 +75,6 @@ I'm **[`EthicalRohit`](https://github.com/ethicalrohitt)**, a Hacker & Security 
 </div>
 
 ---
-
-<h2 id="github_stats"> GitHub Stats 👨‍💻 </h2>
-
-<img align="right" width="44%" src="https://media.giphy.com/media/ZVik7pIo9KB3UA2787/giphy.gif"/>
-
-[![EthicalRohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethicalrohitt&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&custom_title=EthicalRohit's%20GitHub%20Stats)](https://github.com/ethicalrohitt)
-
-<p align="left">
-  <a href="https://github.com/ethicalrohitt">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethicalrohitt&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"/>
-  </a>
-</p>
-
-<br><br>
 
 ---
 
