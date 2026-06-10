@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **Rohit Kailas Pawar**, also known as **[`EthicalRohit`](https://github.com/ethicalrohitt)**, a Hacker & Security Researcher and an aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community. My security research and responsible disclosures have been recognized by organizations such as **NASA**, **BOLT**, the **U.S. Government**, the **Defense Nuclear Facilities Safety Board**, **Telekom**, **Fyers**, among others, for identifying and reporting critical vulnerabilities. I have also been officially assigned **2 CVEs** for vulnerabilities I discovered and responsibly disclosed.
+I'm **Rohit Kailas Pawar**, also known as **[`EthicalRohit`](https://github.com/ethicalrohitt)**, a Hacker & Security Researcher and an aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community. My security research and responsible disclosures have been recognized by organizations such as **NASA**, **BOLT**, the **U.S. Government**, the **Defense Nuclear Facilities Safety Board**, **Telekom**, **Fyers**, among others, for identifying and reporting critical vulnerabilities. I have also been officially assigned **3 CVEs** for vulnerabilities I discovered and responsibly disclosed.
 
 <details>
   <summary>More about me</summary>
@@ -27,7 +27,7 @@ I'm **Rohit Kailas Pawar**, also known as **[`EthicalRohit`](https://github.com/
 - **Name**: Rohit Kailas Pawar
 - **From**: India
 - **Bug Hunter** | **Security Researcher** | **CVE Researcher** | **OSINT Specialist**
-- CVEs Assigned: **CVE-2025-69614** & **CVE-2025-69615**
+- CVEs Assigned: **CVE-2025-69614**  , **CVE-2026-37469** & **CVE-2025-69615**
 - Hall of Fame: **NASA** | **US Government** | **DNFSB** | **BOLT** | **Telekom** | **Fyers**
 - Improving knowledge in **Webapp Vulnerabilities** & **Mobile Pentesting**
 - Lifelong learner — always exploring **everything**
