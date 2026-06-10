@@ -2,16 +2,12 @@
   <img src="https://raw.githubusercontent.com/ethicalrohitt/ethicalrohitt/main/header.png" width="100%">
 </p>
 
-# Hey👋
+:3
 
-I'm **Rohit Kailas Pawar**, also known as **EthicalRohit**, a Hacker & Security Researcher and an aspiring Cybersecurity Specialist and Bug Hunter.
+Security Researcher & OSINT Specialist
 
-With a strong passion for technology and expertise in vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
-
-My security research and responsible disclosures have been recognized by organizations such as **NASA**, **BOLT**, the **U.S. Government**, the **Defense Nuclear Facilities Safety Board (DNFSB)**, **Telekom**, **Fyers**, among others, for identifying and reporting critical vulnerabilities.
-
-I have also been officially assigned **3 CVEs** for vulnerabilities I discovered and responsibly disclosed.
-
-
-
-
+<p align="center">
+  <a href="https://linkedin.com/in/ethicalrohitt">LinkedIn</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ethicalrohitt.github.io/Bugbounty/punycode-ato.html">Website</a>
+</p>
