@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ethicalrohitt/ethicalrohitt/main/banner1.webp" width="100%">
+  <img src="https://raw.githubusercontent.com/ethicalrohitt/ethicalrohitt/main/header.png" width="100%">
 </p>
 
 # Hey👋
