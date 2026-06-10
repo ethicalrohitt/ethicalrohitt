@@ -31,7 +31,7 @@ I'm **Rohit Kailas Pawar**, also known as **[`EthicalRohit`](https://github.com/
 - Hall of Fame: **NASA** | **US Government** | **DNFSB** | **BOLT** | **Telekom** | **Fyers**
 - Improving knowledge in **Webapp Vulnerabilities** & **Mobile Pentesting**
 - Lifelong learner — always exploring **everything**
-- Reach me out at **rohitkpawar04@gmail.com**
+
 
 </details>
 
